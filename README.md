@@ -8,12 +8,12 @@
 
   **Correlations**
 
-  ![image-20210119094456118](C:\Users\Andrew\AppData\Roaming\Typora\typora-user-images\image-20210119094456118.png)
+ ![image](https://user-images.githubusercontent.com/58379976/105052814-4e1e1a80-5a3e-11eb-8dab-9edbb836152c.png)
 
   **Simple Model on Price and Square Footage**
 
-  ![image-20210119094916535](C:\Users\Andrew\AppData\Roaming\Typora\typora-user-images\image-20210119094916535.png)
+  ![image](https://user-images.githubusercontent.com/58379976/105052898-5d9d6380-5a3e-11eb-8a91-499d37ea6b4f.png)
 
   **Simple Model on Price, Square Footage and On_Waterfront**
 
-  ![image-20210119095048882](C:\Users\Andrew\AppData\Roaming\Typora\typora-user-images\image-20210119095048882.png)
+![image](https://user-images.githubusercontent.com/58379976/105052941-68f08f00-5a3e-11eb-9980-b1f7f0b69375.png)
