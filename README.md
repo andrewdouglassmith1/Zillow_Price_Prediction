@@ -15,7 +15,7 @@ The key factors contributing to home listing price were square footage cubed and
 
 **Next Steps**
 
-Given the small number of data point, more data must be collected to regularize and improve the model.  A method for screening for home condition and the accuracy of key categorical variables is needed to improve the model.
+Given the small number of data point, more data must be collected to regularize and improve the model.  A method for screening for home condition and the accuracy of key categorical variables is needed to improve the model.  This is due to a significant premium for renovated homes and major discrepancies between key categorical variables (i.e. waterfront).
 
 **File Contents**
 
