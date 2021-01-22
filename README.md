@@ -9,6 +9,12 @@ Predicting home listing prices in Vermont on a number of features.
 - Zillow (728 homes)
 - County Level Median Income - United States Department of Housing and Urban Development 
 
+**Tools Used**
+
+- Scraping: Beautiful Soup, Selenium
+- Modelling: pandas, sklearn
+- Visualization: Seaborn, Yellowbrick
+
 **Results Summary**
 
 The key factors contributing to home listing price were square footage cubed and whether a home was on waterfront.  A simple model of just square footage cubed resulted in a R2 of  0.34 and a more complex model yielded an R2 of 0.55 with an RMSE of 313,308.
