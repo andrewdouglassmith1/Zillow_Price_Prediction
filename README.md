@@ -1,19 +1,36 @@
-# Reg_Scraping
+# Zillow Home Listing Price Prediction
 
-- Data scraping took longer than expected and model is in early stages
+**Objective**
 
-  - I am hoping to loop back and get distance to nearest ski slope (time permitting)
+Predicting home listing prices in Vermont on a number of features.
 
-- See correlations below (excludes categorical variables: on_waterfront, zip code, home_type, new_construction )
+**Data Sources**
 
-  **Correlations**
+- Zillow (728 homes)
+- County Level Median Income - United States Department of Housing and Urban Development 
 
- ![image](https://user-images.githubusercontent.com/58379976/105052814-4e1e1a80-5a3e-11eb-8dab-9edbb836152c.png)
+**Results Summary**
 
-  **Simple Model on Price and Square Footage**
+The key factors contributing to home listing price were square footage cubed and whether a home was on waterfront.  A simple model of just square footage cubed resulted in a R2 of  0.34 and a more complex model yielded an R2 of 0.55 with an RMSE of 313,308.
 
-  ![image](https://user-images.githubusercontent.com/58379976/105052898-5d9d6380-5a3e-11eb-8a91-499d37ea6b4f.png)
+**Next Steps**
 
-  **Simple Model on Price, Square Footage and On_Waterfront**
+Given the small number of data point, more data must be collected to regularize and improve the model.  A method for screening for home condition and the accuracy of key categorical variables is needed to improve the model.
 
-![image](https://user-images.githubusercontent.com/58379976/105052941-68f08f00-5a3e-11eb-9980-b1f7f0b69375.png)
+**File Contents**
+
+Pickle Files & csvs
+
+- Saved from webs raping
+
+Notebooks
+
+- `Zillow_Scraping_Links.ipynb` contains all web-scraping for initial links to VT home listings.
+
+- `Zillow_Scraping_Property_Info.ipynb` contains all web-scraping collected for individual homes.
+
+- `ZillowModels5.ipynb` contains all data cleaning, modelling and visualization for the project.
+
+  
+
+  
