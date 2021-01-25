@@ -17,7 +17,7 @@ Predicting home listing prices in Vermont on a number of features.
 
 **Results Summary**
 
-The key factors contributing to home listing price were square footage cubed and whether a home was on waterfront.  A simple model of just square footage cubed resulted in a R2 of  0.34 and a more complex model yielded an R2 of 0.55 with an RMSE of 313,308.
+The key factors contributing to home listing price were square footage cubed and whether a home was on waterfront.  A simple model of just square footage cubed resulted in a R2 of  0.34 and a more complex model yielded an R2 of 0.55 with an RMSE of $313,308 and MAE of $178,156.
 
 **Next Steps**
 
@@ -35,7 +35,7 @@ Notebooks
 
 - `Zillow_Scraping_Property_Info.ipynb` contains all web-scraping collected for individual homes.
 
-- `ZillowModels5.ipynb` contains all data cleaning, modelling and visualization for the project.
+- `ZillowModels.ipynb` contains all data cleaning, modelling and visualization for the project.
 
   
 
