@@ -2,7 +2,7 @@
 
 **Objective**
 
-Predicting home listing prices in Vermont on a number of features.
+- Predicting home listing prices in Vermont on a number of features.
 
 **Data Sources**
 
