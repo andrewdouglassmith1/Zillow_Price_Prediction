@@ -43,7 +43,7 @@ Given the small number of data point, more data must be collected to regularize 
 
 Pickle Files & csvs
 
-- Saved from webs raping
+- Saved from web scraping
 
 Notebooks
 
