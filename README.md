@@ -15,6 +15,11 @@
 - Modelling: pandas, sklearn
 - Visualization: Seaborn, Yellowbrick
 
+**Models Used**
+---
+- Linear Regression
+- Lasso Regression
+
 **Features and Target Variables**
 ---
 - Target Variable: Zillow Home Listing Price
